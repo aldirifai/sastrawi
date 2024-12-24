@@ -27,10 +27,8 @@ class PrecedenceAdjustmentSpecification implements SpecificationInterface
         $regexRules = array(
             '/^be(.*)lah$/',
             '/^be(.*)an$/',
-            '/^me(.*)i$/',
-            '/^di(.*)i$/',
-            '/^pe(.*)i$/',
-            '/^ter(.*)i$/',
+            '/i$/',
+            '/is$/',
         );
 
         foreach ($regexRules as $rule) {
