@@ -1,6 +1,8 @@
 Sastrawi
 =========
 
+Library ini adalah hasil fork dari [Sastrawi](https://github.com/sastrawi/sastrawi) dengan beberapa penyesuaian
+
 Sastrawi is a simple PHP library which allows you to reduce inflected words in Indonesian Language (Bahasa Indonesia) to their base form ([stem](http://en.wikipedia.org/wiki/Stemming)).
 Despite its simplicity, this library is  designed to be high quality and well documented.
 For more information in english, see [README](https://github.com/andylib/sastrawi/blob/master/README.en.md).
